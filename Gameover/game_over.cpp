@@ -2,7 +2,9 @@
 //First programm c++
 
 #include <iostream>
-using namespace std;
+using std::cout;
+using std::endl;
+
 int main()
 {
     std::cout<< "Game Over!" <<std::endl;
